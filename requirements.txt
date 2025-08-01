@@ -1,0 +1,9 @@
+python=3.12
+matplotlib
+conda-forge::jupyterlab
+conda-forge::leidenalg
+numpy
+pandas
+pycairo
+networkx
+scipy
