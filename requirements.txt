@@ -1,4 +1,4 @@
-python=3.12
+python==3.12
 matplotlib
 conda-forge::jupyterlab
 conda-forge::leidenalg
